@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresfelipe23&label=Profile%20views&color=0e75b6&style=flat" alt="andresfelipe23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresfelipe23" alt="andresfelipe23" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=andresfelipe23" alt="andresfelipe23" /> </a> </p>
 
-<p align="left"> <a href="https://twitter.com/espitia23s" target="blank"><img src="https://img.shields.io/twitter/follow/espitia23s?logo=twitter&style=for-the-badge" alt="espitia23s" /></a> </p>
+<p align="left"> <a href="https://twitter.com/espitia23s" target="blank"> <img src="https://img.shields.io/twitter/follow/espitia23s?logo=twitter&style=for-the-badge" alt="espitia23s" /> </a> </p>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 🔭 I am currently working in an online store [clothing store](in production)
 
