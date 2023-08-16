@@ -7,8 +7,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=andresfelipe23" alt="andresfelipe23" /> </a> </p>
 
 <h3 align="left">Social networks</h3>
-<p align="left"> <a href="https://twitter.com/espitia23s" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="espitia23s" /> <a href="https://twitter.com/espitia23s" target="blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="espitia23s" /></a> </p>
-  </a>
+
+<p align="left"> 
+  <a href="https://www.instagram.com/a_espitias/" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="espitia23s" /> 
+  <a href="https://twitter.com/espitia23s" target="blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="espitia23s" />
+  <a href="https://dribbble.com/Andres_Espitia" target="blank"> <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="espitia23s" />  
+</p>
+
+
   
 <h3 align="left">Skills</h3>
 
