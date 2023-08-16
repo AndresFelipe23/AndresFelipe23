@@ -2,11 +2,15 @@
 <h3 align="center">A passionate frontend developer from Colombia | 23 years | Node.js, Angular, Kotlin, and Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresfelipe23&label=Profile%20views&color=0e75b6&style=flat" alt="andresfelipe23" /> </p>
+  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=andresfelipe23" alt="andresfelipe23" /> </a> </p>
 
-<p align="left"> <a href="https://twitter.com/espitia23s" target="blank"> <img src="https://img.shields.io/twitter/follow/espitia23s?logo=twitter&style=for-the-badge" alt="espitia23s" /> </a> </p>
-
+<h3 align="left">Social networks</h3>
+<p align="left"> <a href="https://twitter.com/espitia23s" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="espitia23s" /> <a href="https://twitter.com/espitia23s" target="blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="espitia23s" /></a> </p>
+  </a>
+  
+<h3 align="left">Skills</h3>
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
