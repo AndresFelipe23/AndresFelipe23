@@ -60,7 +60,7 @@
 
 - 🌱 Currently I'm still learning: Java, Kotlin, Angular, Node.js and Asp.net **Udemy**
 
-- 🔭 I am currently working on an android application [Your work](in production)
+- 🔭 I am currently working on an android application.
 
 - 🤝 I am looking for help with a java programmer for android **Your work**
 
