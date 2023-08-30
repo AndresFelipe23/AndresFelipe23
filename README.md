@@ -56,9 +56,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I am currently working in an online store [clothing store](in production)
+- 🔭 I am currently working in an online store [clothing store](https://github.com/AndresFelipe23/Ecommerce.git)
 
-- 🌱 Currently I'm still learning: Java, Kotlin, Angular, Node.js and Asp.net **Udemy**
+- 🌱 Currently I'm still learning: Java, Kotlin, Angular, Node.js and Asp.net **[Udemy](https://www.udemy.com/user/pipe-tutoriales-23/)**
 
 - 🔭 I am currently working on an android application.
 
